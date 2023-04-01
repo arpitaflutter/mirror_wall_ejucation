@@ -14,4 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-[1.zip](https://github.com/arpitaflutter/mirror_wall_ejucation/files/11128824/1.zip)
+<img width="188" alt="1" src="https://user-images.githubusercontent.com/116253518/229275155-3d9005cc-e7c6-410f-a8df-72455160254b.png">
